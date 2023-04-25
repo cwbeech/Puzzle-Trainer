@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.PuzzleTrainer", "Ksu.Cis300.PuzzleTrainer\Ksu.Cis300.PuzzleTrainer.csproj", "{CC5215F3-106C-445E-96E9-F6CB5EE67592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.PuzzleTrainer.Tests", "Ksu.Cis300.PuzzleTrainer.Tests\Ksu.Cis300.PuzzleTrainer.Tests.csproj", "{74D55784-2D5F-495A-8E51-D56A28355582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5215F3-106C-445E-96E9-F6CB5EE67592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5215F3-106C-445E-96E9-F6CB5EE67592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5215F3-106C-445E-96E9-F6CB5EE67592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5215F3-106C-445E-96E9-F6CB5EE67592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D55784-2D5F-495A-8E51-D56A28355582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D55784-2D5F-495A-8E51-D56A28355582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D55784-2D5F-495A-8E51-D56A28355582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D55784-2D5F-495A-8E51-D56A28355582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558673E0-224D-428A-89CA-F1F29B3BC811}
+	EndGlobalSection
+EndGlobal
